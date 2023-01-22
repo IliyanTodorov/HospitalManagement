@@ -1,0 +1,15 @@
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\bin\Debug\net7.0\HospitalManagement.Data.Models.deps.json
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\bin\Debug\net7.0\HospitalManagement.Data.Models.dll
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\bin\Debug\net7.0\HospitalManagement.Data.Models.pdb
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\bin\Debug\net7.0\HospitalManagement.Data.Common.dll
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\bin\Debug\net7.0\HospitalManagement.Data.Common.pdb
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.csproj.AssemblyReference.cache
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.AssemblyInfoInputs.cache
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.AssemblyInfo.cs
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.csproj.CoreCompileInputs.cache
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.csproj.CopyComplete
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.dll
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\refint\HospitalManagement.Data.Models.dll
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\HospitalManagement.Data.Models.pdb
+D:\HospitalManagement\Data\HospitalManagement.Data.Models\obj\Debug\net7.0\ref\HospitalManagement.Data.Models.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKMAH7h/FRG7iT9sW2YpBGIZG0EIMRJnv0hIf8M6Hr3DRfkP1BIogxsxIC8J+mQ4u0ptPP7NiIEX0WhEUEJqDA==",
+  "success": true,
+  "projectFilePath": "D:\\HospitalManagement\\Services\\HospitalManagement.Services\\HospitalManagement.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venom\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\venom\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

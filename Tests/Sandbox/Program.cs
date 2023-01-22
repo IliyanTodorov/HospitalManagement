@@ -5,6 +5,7 @@
     using System.IO;
     using System.Threading.Tasks;
 
+    using CommandLine;
     using HospitalManagement.Data;
     using HospitalManagement.Data.Common;
     using HospitalManagement.Data.Common.Repositories;
@@ -13,9 +14,6 @@
     using HospitalManagement.Data.Seeding;
     using HospitalManagement.Services.Data;
     using HospitalManagement.Services.Messaging;
-
-    using CommandLine;
-
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;

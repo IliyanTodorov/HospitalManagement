@@ -1,0 +1,13 @@
+{
+  "HospitalManagement.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\HospitalManagement.Common",
+  "HospitalManagement.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Data\\HospitalManagement.Data.Common",
+  "HospitalManagement.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Data\\HospitalManagement.Data",
+  "HospitalManagement.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Data\\HospitalManagement.Data.Models",
+  "HospitalManagement.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Services\\HospitalManagement.Services.Data",
+  "HospitalManagement.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Services\\HospitalManagement.Services",
+  "HospitalManagement.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Services\\HospitalManagement.Services.Mapping",
+  "HospitalManagement.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Services\\HospitalManagement.Services.Messaging",
+  "HospitalManagement.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Web\\HospitalManagement.Web",
+  "HospitalManagement.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Web\\HospitalManagement.Web.Infrastructure",
+  "HospitalManagement.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\HospitalManagement\\Web\\HospitalManagement.Web.ViewModels"
+}

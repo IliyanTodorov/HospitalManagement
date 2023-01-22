@@ -1,0 +1,12 @@
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\bin\Debug\net6.0\HospitalManagement.Services.Mapping.deps.json
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\bin\Debug\net6.0\HospitalManagement.Services.Mapping.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\bin\Debug\net6.0\HospitalManagement.Services.Mapping.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.csproj.AssemblyReference.cache
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.AssemblyInfoInputs.cache
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.AssemblyInfo.cs
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\refint\HospitalManagement.Services.Mapping.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\HospitalManagement.Services.Mapping.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services.Mapping\obj\Debug\net6.0\ref\HospitalManagement.Services.Mapping.dll

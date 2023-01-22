@@ -1,0 +1,12 @@
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\bin\Debug\net6.0\HospitalManagement.Services.Messaging.deps.json
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\bin\Debug\net6.0\HospitalManagement.Services.Messaging.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\bin\Debug\net6.0\HospitalManagement.Services.Messaging.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.csproj.AssemblyReference.cache
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.AssemblyInfoInputs.cache
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.AssemblyInfo.cs
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\refint\HospitalManagement.Services.Messaging.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\HospitalManagement.Services.Messaging.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services.Messaging\obj\Debug\net6.0\ref\HospitalManagement.Services.Messaging.dll

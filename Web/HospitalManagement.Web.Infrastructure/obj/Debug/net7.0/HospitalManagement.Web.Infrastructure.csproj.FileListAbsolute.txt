@@ -1,0 +1,12 @@
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\bin\Debug\net7.0\HospitalManagement.Web.Infrastructure.deps.json
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\bin\Debug\net7.0\HospitalManagement.Web.Infrastructure.dll
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\bin\Debug\net7.0\HospitalManagement.Web.Infrastructure.pdb
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.csproj.AssemblyReference.cache
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.AssemblyInfo.cs
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.dll
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\refint\HospitalManagement.Web.Infrastructure.dll
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\HospitalManagement.Web.Infrastructure.pdb
+D:\HospitalManagement\Web\HospitalManagement.Web.Infrastructure\obj\Debug\net7.0\ref\HospitalManagement.Web.Infrastructure.dll

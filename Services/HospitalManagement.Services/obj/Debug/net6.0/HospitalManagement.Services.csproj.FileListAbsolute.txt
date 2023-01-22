@@ -1,0 +1,12 @@
+D:\HospitalManagement\Services\HospitalManagement.Services\bin\Debug\net6.0\HospitalManagement.Services.deps.json
+D:\HospitalManagement\Services\HospitalManagement.Services\bin\Debug\net6.0\HospitalManagement.Services.dll
+D:\HospitalManagement\Services\HospitalManagement.Services\bin\Debug\net6.0\HospitalManagement.Services.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.csproj.AssemblyReference.cache
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.AssemblyInfoInputs.cache
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.AssemblyInfo.cs
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.csproj.CoreCompileInputs.cache
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.dll
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\refint\HospitalManagement.Services.dll
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\HospitalManagement.Services.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services\obj\Debug\net6.0\ref\HospitalManagement.Services.dll
