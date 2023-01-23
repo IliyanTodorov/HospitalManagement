@@ -4813,6 +4813,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "HospitalManagement.Data": "1.0.0",
           "HospitalManagement.Data.Common": "1.0.0",
           "HospitalManagement.Data.Models": "1.0.0",
           "HospitalManagement.Services.Mapping": "1.0.0"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hjsdGnUYupogBexNGmuMduNDEUOsxXBl3IgB0KaEmig=",
+  "Hash": "VtZyYMyr0XSbNxB4o7r//bW7Znc2pIoWNshYgYOH1lo=",
   "Source": "HospitalManagement.Web",
   "BasePath": "_content/HospitalManagement.Web",
   "Mode": "Default",
@@ -1086,6 +1086,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\images\\babyYoda.png",
+      "SourceId": "HospitalManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\",
+      "BasePath": "_content/HospitalManagement.Web",
+      "RelativePath": "images/babyYoda.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\babyYoda.png"
+    },
+    {
+      "Identity": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\images\\Hospital.jpg",
+      "SourceId": "HospitalManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\",
+      "BasePath": "_content/HospitalManagement.Web",
+      "RelativePath": "images/Hospital.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Hospital.jpg"
     },
     {
       "Identity": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\js\\site.js",

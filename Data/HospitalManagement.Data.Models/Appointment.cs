@@ -3,10 +3,10 @@
     using System;
     using System.ComponentModel.DataAnnotations;
 
-    public class Appointment
-    {
-        public int AppointmentId { get; set; }
+    using HospitalManagement.Data.Common.Models;
 
+    public class Appointment : BaseDeletableModel<int>
+    {
         [Required]
         public int PatientId { get; set; }
 

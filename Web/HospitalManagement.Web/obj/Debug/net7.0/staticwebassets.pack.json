@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\images\\Hospital.jpg",
+      "PackagePath": "staticwebassets\\images\\Hospital.jpg"
+    },
+    {
+      "Id": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\images\\babyYoda.png",
+      "PackagePath": "staticwebassets\\images\\babyYoda.png"
+    },
+    {
       "Id": "D:\\HospitalManagement\\Web\\HospitalManagement.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

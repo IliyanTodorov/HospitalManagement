@@ -17,3 +17,8 @@ D:\HospitalManagement\Services\HospitalManagement.Services.Data\obj\Debug\net7.0
 D:\HospitalManagement\Services\HospitalManagement.Services.Data\obj\Debug\net7.0\refint\HospitalManagement.Services.Data.dll
 D:\HospitalManagement\Services\HospitalManagement.Services.Data\obj\Debug\net7.0\HospitalManagement.Services.Data.pdb
 D:\HospitalManagement\Services\HospitalManagement.Services.Data\obj\Debug\net7.0\ref\HospitalManagement.Services.Data.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Data\bin\Debug\net7.0\appsettings.json
+D:\HospitalManagement\Services\HospitalManagement.Services.Data\bin\Debug\net7.0\HospitalManagement.Common.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Data\bin\Debug\net7.0\HospitalManagement.Data.dll
+D:\HospitalManagement\Services\HospitalManagement.Services.Data\bin\Debug\net7.0\HospitalManagement.Data.pdb
+D:\HospitalManagement\Services\HospitalManagement.Services.Data\bin\Debug\net7.0\HospitalManagement.Common.pdb

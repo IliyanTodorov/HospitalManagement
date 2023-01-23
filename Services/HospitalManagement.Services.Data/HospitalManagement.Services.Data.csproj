@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\HospitalManagement.Data.Common\HospitalManagement.Data.Common.csproj" />
     <ProjectReference Include="..\..\Data\HospitalManagement.Data.Models\HospitalManagement.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\HospitalManagement.Data\HospitalManagement.Data.csproj" />
     <ProjectReference Include="..\HospitalManagement.Services.Mapping\HospitalManagement.Services.Mapping.csproj" />
   </ItemGroup>
 
