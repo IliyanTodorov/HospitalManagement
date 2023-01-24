@@ -1,11 +1,10 @@
 ﻿namespace HospitalManagement.Data.Models
 {
+    using HospitalManagement.Data.Common.Models;
     using System.ComponentModel.DataAnnotations;
 
-    public class Room
+    public class Room : BaseDeletableModel<int>
     {
-        public int RoomId { get; set; }
-
         [Required]
         [StringLength(50)]
         public string RoomNumber { get; set; }

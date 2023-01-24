@@ -1,12 +1,11 @@
 ﻿namespace HospitalManagement.Data.Models
 {
+    using HospitalManagement.Data.Common.Models;
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
 
-    public class Department
+    public class Department : BaseDeletableModel<int>
     {
-        public int DepartmentId { get; set; }
-
         [Required]
         [StringLength(50)]
         public string Name { get; set; }

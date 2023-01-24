@@ -1,12 +1,11 @@
 ﻿namespace HospitalManagement.Data.Models
 {
+    using HospitalManagement.Data.Common.Models;
     using System;
     using System.ComponentModel.DataAnnotations;
 
-    public class Patient
+    public class Patient : BaseDeletableModel<int>
     {
-        public int PatientId { get; set; }
-
         [Required]
         public string Name { get; set; }
 

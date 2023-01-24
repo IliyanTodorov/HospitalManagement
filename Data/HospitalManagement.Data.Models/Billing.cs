@@ -3,13 +3,11 @@
     using System;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
-
+    using HospitalManagement.Data.Common.Models;
     using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
-    public class Billing
+    public class Billing : BaseDeletableModel<int>
     {
-        public int BillingId { get; set; }
-
         [Required]
         public int PatientId { get; set; }
 
